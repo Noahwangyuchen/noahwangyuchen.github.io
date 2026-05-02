@@ -1,14 +1,11 @@
 ---
 permalink: /
+title: "About me 👋🏻"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-
-About me 👋🏻
-======
 I am a Mphil student at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Zeke Xie](https://sites.google.com/view/zeke-xie/home). Previously, I received my Bachelor’s degree in Computer Science and Technology from [ Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/) in 2025, advised by Prof. [Xinyang Chen](https://chenxinyang123.github.io/).
 
 I study why modern machine learning systems fail to generalize across tasks, models, and environments. My work focuses on analyzing internal representation and adaptation mechanisms, and designing methods that improve transfer and robustness. In the long term, I aim to build AI systems that learn to understand and interact with the physical world.
