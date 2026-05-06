@@ -151,6 +151,7 @@ Publications 📔
     <p><strong>Yuchen Wang</strong>, Wenliang Zhong, Lichen Bai, Zikai Zhou, Shitong Shao, Bojun Cheng, Shuo Chen, Shuo Yang, Zeke Xie</p>
     <p><em>International Conference on Machine Learning (ICML), 2026</em></p>
     <p>
+      <a href="https://arxiv.org/abs/2605.01929">Paper</a> /
       <a href="https://github.com/Noahwangyuchen/CASA">Code</a>
     </p>
   </div>
