@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a MPhil student at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Zeke Xie](https://sites.google.com/view/zeke-xie/home). Previously, I received my Bachelor’s degree in Computer Science and Technology from [ Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/) in 2025, advised by Prof. [Xinyang Chen](https://chenxinyang123.github.io/).
+I am an MPhil student at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Prof. [Zeke Xie](https://sites.google.com/view/zeke-xie/home). Previously, I received my Bachelor’s degree in Computer Science and Technology from [ Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/) in 2025, advised by Prof. [Xinyang Chen](https://chenxinyang123.github.io/).
 
 <div style="height: 15px;"></div>
 
